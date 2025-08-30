@@ -31,11 +31,6 @@
 
 Create a virtual environment (recommended) and install dependencies:
 
-```bash
-python -m venv .venv
-.venv\Scripts\activate      # Windows
-pip install -r requirements.txt
-```
 
 > If you don't have a `requirements.txt`, typical packages used by this project include:
 > `pyttsx3`, `SpeechRecognition`, `pytesseract`, `Pillow`, `pyautogui`, `psutil`, `pywhatkit`, `pyjokes`, `pypiwin32` (pywin32), `wikipedia`.
