@@ -44,7 +44,7 @@ If Tesseract is installed to a non-default location, update `pytesseract.pytesse
 From the project folder:
 
 ```bash
-python voice_assistant.py
+python main.py
 ```
 
 Use the GUI to enter your name and click **Start Voice Assistant**. The assistant will greet you and begin listening.
